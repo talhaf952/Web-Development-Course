@@ -1,3 +1,5 @@
+Lecture 1
+
 Lecture 2
 Topics to be disscused 
 1.solution of project 1
@@ -9,3 +11,16 @@ Topics to be disscused
 7.images
 
 Lecture 3
+
+Lecture 4
+Topics to be disscused 
+1.video
+2.span
+3.divs 
+4.favicons 
+5.Description list
+6.tables
+7.buttons 
+8.header and footers 
+9.forms
+10.guidelines about html project
