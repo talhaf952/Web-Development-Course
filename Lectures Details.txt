@@ -1,0 +1,11 @@
+Lecture 2
+Topics to be disscused 
+1.solution of project 1
+2.<pr> vs <pre>
+3.unordered lists 
+4.ordered lists
+5.nested lists
+6.hyperlinks 
+7.images
+
+Lecture 3
