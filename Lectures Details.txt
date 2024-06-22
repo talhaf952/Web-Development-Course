@@ -24,3 +24,14 @@ Topics to be disscused
 8.header and footers 
 9.forms
 10.guidelines about html project
+
+lecture 5
+Topics to be discussed:
+1.solution of project 2
+2.Introduction to CSS
+3.Types of CSS (inline ,internal ,external )
+4.CSS selectors (class, id ,attribute, universal )
+5.colors
+6.fonts
+7.border 
+8.shadows
