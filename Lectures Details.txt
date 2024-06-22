@@ -46,3 +46,20 @@ Topics to be discussed:
 6.padding 
 7.CSS positions 
 8.background image
+
+lecture 7
+Topics to be discussed:
+1.Margins 
+2.floats 
+3.overflow
+4.display 
+5.height and width
+6.padding 
+7.CSS positions 
+8.background image
+9.combinators 
+10.pseudoclasses 
+11.pseudoepelements
+12.pagination
+13.dropdown menus 
+14.navigation bar
