@@ -63,3 +63,11 @@ Topics to be discussed:
 12.pagination
 13.dropdown menus 
 14.navigation bar
+
+lecture 8
+Topics to be discussed:
+1.Drop-down menus 
+2.navigation bar
+3.transformation 
+4.animation 
+5.Live demo of making your first professional website
