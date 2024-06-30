@@ -81,3 +81,12 @@ Lecture 11
 Lecture 12
 
 Lecture 13
+Topics to be disscused 
+1.Media queries (CSS leftover)
+2.external fonts (CSS leftover )
+3.icons (CSS leftover )
+4.INTRODUCTION TO JAVASCRIPT 
+5.Basic syntax of JavaScript
+6.Data types in JavaScript
+7.Variables in JavaScript
+8.operators in JavaScript
