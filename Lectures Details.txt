@@ -90,3 +90,5 @@ Topics to be disscused
 6.Data types in JavaScript
 7.Variables in JavaScript
 8.operators in JavaScript
+
+Lecture 14
