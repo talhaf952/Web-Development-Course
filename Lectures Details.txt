@@ -92,7 +92,7 @@ Topics to be disscused
 8.operators in JavaScript
 
 Lecture 14
-Topics:
+Topics to be disscused 
 Counter project
 Functions 
 Math functions 
