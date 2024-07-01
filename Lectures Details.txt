@@ -92,3 +92,11 @@ Topics to be disscused
 8.operators in JavaScript
 
 Lecture 14
+Topics:
+Counter project
+Functions 
+Math functions 
+Random numbers
+If else 
+Ternary operator 
+Switches
