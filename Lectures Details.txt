@@ -104,3 +104,13 @@ Switches
 Lecture 15
 
 Lecture 16
+Topics to be disscused 
+1.checked property in JavaScript 
+2.String methods
+3.Method Changing 
+4.Logical operators
+5.strict equality
+6.while loops
+7.do while loops
+8.For loops 
+9.Number Guessing game
