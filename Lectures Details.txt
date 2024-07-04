@@ -100,3 +100,5 @@ Random numbers
 If else 
 Ternary operator 
 Switches
+
+Lecture 16
