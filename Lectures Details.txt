@@ -116,3 +116,8 @@ Topics to be disscused
 9.Number Guessing game
 
 Lecture 17
+Topics to be disscused 
+1.Functions
+2.Variable scope
+3.Temprature Conversion program 
+4.Arrays
