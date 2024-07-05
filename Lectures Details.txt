@@ -114,3 +114,5 @@ Topics to be disscused
 7.do while loops
 8.For loops 
 9.Number Guessing game
+
+Lecture 17
