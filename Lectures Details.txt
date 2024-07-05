@@ -121,3 +121,7 @@ Topics to be disscused
 2.Variable scope
 3.Temprature Conversion program 
 4.Arrays
+5.spread operator
+6.Rest Parameters 
+7.Dice roller program
+8.Random password generator
