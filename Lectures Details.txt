@@ -135,3 +135,16 @@ Topics to be disscused
 5.Constructor 
 6.classes 
 7.static key word
+
+Lecture 19
+Topics to be disscused 
+1.Call backs
+2.Inheritance 
+3.Super keyword 
+4.getter and setter
+5.Destructing
+6.nested objects 
+7.array of objects
+8.sorting and shuffling 
+9.dates ,closure and set time out()
+10.Digital clock program
