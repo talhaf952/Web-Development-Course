@@ -125,3 +125,13 @@ Topics to be disscused
 6.Rest Parameters 
 7.Dice roller program
 8.Random password generator
+
+Lecture 18
+Topics to be disscused 
+1.arrow Functions
+2.Call backs
+3.objects 
+4.this
+5.Constructor 
+6.classes 
+7.static key word
