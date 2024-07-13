@@ -148,3 +148,15 @@ Topics to be disscused
 8.sorting and shuffling 
 9.dates ,closure and set time out()
 10.Digital clock program
+
+Lecture 20
+Topics to be disscused 
+1.STOP WATCH PROGRAM
+2.Es6 modules
+3.Asynchronus code
+4.error handling
+5.CALCULATOR PROGRAM
+6.Dom
+7.element selectors 
+8.Dom navigation 
+9.add and change html
