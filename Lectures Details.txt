@@ -160,3 +160,14 @@ Topics to be disscused
 7.element selectors 
 8.Dom navigation 
 9.add and change html
+
+Lecture 21
+Topics to be disscused 
+1.DOM navigation
+2.Add and change html
+3.mouse events and key events
+4.hide and show html
+5.nodelists and classlists 
+6.ROCK PAPER SCISSORS 
+7.IMAGE SLIDER
+8.callback hell()
