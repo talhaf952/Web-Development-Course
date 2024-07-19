@@ -173,3 +173,12 @@ Topics to be disscused
 8.callback hell()
 
 Lecture 22
+Class Lists
+Image Slider
+Promises
+Async/await
+Jason files
+Fetch data from API
+Weather App(Final Project)
+
+Lecture 23
