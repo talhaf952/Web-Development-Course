@@ -173,6 +173,7 @@ Topics to be disscused
 8.callback hell()
 
 Lecture 22
+Topics to be disscused
 Class Lists
 Image Slider
 Promises
