@@ -184,6 +184,15 @@ Weather App(Final Project)
 
 Lecture 23
 Topics to be disscused
+Topics :
+1.Introduction to backend
+2.what is node 
+js
+3.why node js not django(python)
+4.using node js
+5.Native node modules
+6.Npm package manager
+7.QR code generator
 
 Lecture 24
 Topics 
