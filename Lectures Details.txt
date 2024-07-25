@@ -184,3 +184,13 @@ Weather App(Final Project)
 
 Lecture 23
 Topics to be disscused
+
+Lecture 24
+Topics 
+1.what is express
+2.creating our first server with express
+3.HTTP requests 
+4.postman
+5.introduction to middlewares 
+6.custom middleware 
+7.project
