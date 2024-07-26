@@ -1,7 +1,7 @@
 Lecture 1
 
 Lecture 2
-Topics to be disscused 
+Topics to be discussed 
 1.solution of project 1
 2.<pr> vs <pre>
 3.unordered lists 
@@ -13,7 +13,7 @@ Topics to be disscused
 Lecture 3
 
 Lecture 4
-Topics to be disscused 
+Topics to be discussed 
 1.video
 2.span
 3.divs 
@@ -205,6 +205,7 @@ Topics to be discussed
 Lecture 25
 
 Lecture 26
+Topics to be discussed 
 Introduction to Data bases 
 What are SQL data bases
 What are noSQL data bases
