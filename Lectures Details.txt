@@ -201,3 +201,7 @@ Topics to be discussed
 5.introduction to middlewares 
 6.custom middleware 
 7.project
+
+Lecture 25
+
+Lecture 26
