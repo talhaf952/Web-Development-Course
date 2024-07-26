@@ -205,3 +205,8 @@ Topics to be discussed
 Lecture 25
 
 Lecture 26
+Introduction to Data bases 
+What are SQL data bases
+What are noSQL data bases
+
+Lecture 27
