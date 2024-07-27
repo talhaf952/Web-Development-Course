@@ -203,6 +203,9 @@ Topics to be discussed
 7.project
 
 Lecture 25
+Topics to be discussed
+Today we will disscus middleware’s and EJS
+Both are most complex topics
 
 Lecture 26
 Topics to be discussed 
