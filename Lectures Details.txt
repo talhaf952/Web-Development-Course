@@ -211,3 +211,4 @@ What are SQL data bases
 What are noSQL data bases
 
 Lecture 27
+Topics to be discussed 
