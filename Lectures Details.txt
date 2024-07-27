@@ -212,3 +212,9 @@ What are noSQL data bases
 
 Lecture 27
 Topics to be discussed 
+1.what are API’s and there usage
+2.what are database 
+3.SQL databases 
+4.noSQL databases
+5.intro to MySQL
+6.software installation
